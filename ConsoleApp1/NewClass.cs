@@ -10,5 +10,8 @@ namespace ConsoleApp1
     {
         public void aaa()
         { }
+
+        public void bbb()
+        { }
     }
 }
