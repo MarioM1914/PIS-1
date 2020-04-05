@@ -11,6 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("How are you");
         }
     }
 }
+
+// Console.WriteLine("How are you"); dodala luca70599
