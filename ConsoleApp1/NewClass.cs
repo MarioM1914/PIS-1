@@ -10,5 +10,10 @@ namespace ConsoleApp1
     {
         public void aaa()
         { }
+        
+        public void ccc()
+        {}
     }
 }
+
+//dodana prazna metoda ccc, u VS-u pod nazivom bbb
